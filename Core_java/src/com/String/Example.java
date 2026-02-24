@@ -25,6 +25,7 @@ public class Example {
 		System.out.println(s6.isEmpty());
 		System.out.println(s6.toCharArray());
 		System.out.println(s6.split(name));
+		
 
 	}
 
